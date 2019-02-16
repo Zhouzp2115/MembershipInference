@@ -1,5 +1,5 @@
 # MembershipInference
-code for membershipinference against macgine learning
+code for membershipinference against machine learning
 paper:https://ieeexplore.ieee.org/abstract/document/7958568
 
 use pytorch(GPU version)
